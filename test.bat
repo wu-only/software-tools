@@ -1,0 +1,3 @@
+echo start the task...
+shutdown -s -t 10
+pause
